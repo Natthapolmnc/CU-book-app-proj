@@ -1,0 +1,10 @@
+insert into book (bookName, author, bookPrice,fk_book_username) values ('When in Rome', 'Collinette', 100,'agirhardi@ihg.com');
+insert into book (bookName, author, bookPrice,fk_book_username) values ('Virginia''s Run', 'Pantridge', 300,'agirhardi@ihg.com');
+insert into book (bookName, author, bookPrice,fk_book_username) values ('Marooned', 'Draco', 100,'agirhardi@ihg.com');
+insert into book (bookName, author, bookPrice,fk_book_username) values ('Cheerleader Camp', 'Spalding', 100,'agirhardi@ihg.com');
+insert into book (bookName, author, bookPrice,fk_book_username) values ('State of Play', 'Stuer', 300,'agirhardi@ihg.com');
+insert into book (bookName, author, bookPrice,fk_book_username) values ('Twice in a Lifetime', 'Tolley', 200,'agirhardi@ihg.com');
+insert into book (bookName, author, bookPrice,fk_book_username) values ('Mon Paradis - Der Winterpalast', 'Meedendorpe', 300,'agirhardi@ihg.com');
+insert into book (bookName, author, bookPrice,fk_book_username) values ('Gaudi Afternoon', 'McGinley', 200,'agirhardi@ihg.com');
+insert into book (bookName, author, bookPrice,fk_book_username) values ('Stranded', 'Poppleston', 200,'agirhardi@ihg.com');
+insert into book (bookName, author, bookPrice,fk_book_username) values ('Bucket Of Blood, A', 'Dyment', 100,'agirhardi@ihg.com');

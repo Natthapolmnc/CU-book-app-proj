@@ -1,0 +1,10 @@
+insert into category (fk_cat_bookID, numberAvailable, fk_cat_username) values (29, 2, 'agirhardi@ihg.com');
+insert into category (fk_cat_bookID, numberAvailable, fk_cat_username) values (30, 3, 'agirhardi@ihg.com');
+insert into category (fk_cat_bookID, numberAvailable, fk_cat_username) values (31, 2, 'agirhardi@ihg.com');
+insert into category (fk_cat_bookID, numberAvailable, fk_cat_username) values (32, 3, 'agirhardi@ihg.com');
+insert into category (fk_cat_bookID, numberAvailable, fk_cat_username) values (33, 4, 'agirhardi@ihg.com');
+insert into category (fk_cat_bookID, numberAvailable, fk_cat_username) values (34, 2, 'agirhardi@ihg.com');
+insert into category (fk_cat_bookID, numberAvailable, fk_cat_username) values (35, 4, 'agirhardi@ihg.com');
+insert into category (fk_cat_bookID, numberAvailable, fk_cat_username) values (36, 2, 'agirhardi@ihg.com');
+insert into category (fk_cat_bookID, numberAvailable, fk_cat_username) values (37, 2, 'agirhardi@ihg.com');
+insert into category (fk_cat_bookID, numberAvailable, fk_cat_username) values (38, 2, 'agirhardi@ihg.com');
